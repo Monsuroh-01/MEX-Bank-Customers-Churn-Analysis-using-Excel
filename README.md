@@ -86,8 +86,8 @@ Calculation… `=IFS([@Tenure2]<=1, "0-1", [@Tenure2]<=3, "2-3", [@Tenure2]<=6, 
 
   <img width="632" height="287" alt="Mex customers behaviour" src="https://github.com/user-attachments/assets/e4de6668-436d-47ba-88ac-720c630b90c1" />
 
-* Customers with inactive accounts and without credit cards have higher churn
-* Customers who interact with the least products churned more
+* Customers without credit cards have higher churn
+* Customers who interact with the least (1) products churned more, and all customers who interacted with all four products also churned. 
 * Customers with high account balance, and have spent more than 6 years with the bank churned more which could be a result of poor service attitude or inappropriate staff conduct.
 * The fair (580-669) and poor (300-579) credit scores bands churned more. 
 
